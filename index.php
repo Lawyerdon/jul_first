@@ -14,3 +14,4 @@ spl_autoload_register(function ($className){
     return false;
 });
 Router::init();
+var_dump($classFile);
