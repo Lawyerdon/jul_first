@@ -13,4 +13,4 @@ spl_autoload_register(function ($className){
     }
     return false;
 });
-Router::init();
+//Router::init();
